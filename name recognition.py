@@ -1,3 +1,4 @@
+#REQUIRES ACTIVE INTERNET CONNECTION.
 import speech_recognition as sr
 import smtplib
 
